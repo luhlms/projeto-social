@@ -1,0 +1,26 @@
+@charset "UTF-8";
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
+a {
+    background-color:darkred;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    
+}
+img {
+    width: 100vw;
+}
+a:hover {
+    background-color: red;
+}
